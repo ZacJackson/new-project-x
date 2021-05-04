@@ -1,0 +1,7 @@
+{
+	"prettier.tabWidth": 15,
+	"prettier.useTabs": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnSave": true,
+	"git.ignoreLimitWarning": true
+}
